@@ -12,8 +12,6 @@ This project is particularly useful for:
 
 The core idea is to provide a "sender" tool for video/audio streaming without relying on cloud services—everything runs locally on your machine. It emphasizes low-latency performance with FFmpeg optimizations and includes error handling for robustness. Note: This is a sender-only application; you'll need a receiver (e.g., VLC or a custom script) on the target IPs to view the stream.
 
-Emoji key for sections: 🚀 (start/excitement), 📋 (lists/requirements), 🛠️ (tools/build), ▶️ (usage/run), 🔍 (details/explain), ⚠️ (warnings/issues).
-
 ## ✨ Key Features
 - **Multi-Destination Streaming**: Add/remove multiple IP addresses dynamically and stream to all simultaneously. 📡
 - **Protocol Flexibility**: Choose TCP for reliable delivery or UDP for faster, lower-latency transmission (with potential packet loss). 🔄
