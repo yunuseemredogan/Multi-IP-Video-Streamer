@@ -1,6 +1,7 @@
 # Multi IP Video Streamer 🚀
 
 ![Project Banner](https://github.com/yunuseemredogan/screenshots-.gitkeep/blob/main/video-streaming.png)
+<img width="1145" height="802" alt="video-streaming" src="https://github.com/user-attachments/assets/cc8ba2cd-8ff7-43ad-b249-cf3ac04b307e" />
 
 ## 📖 Overview
 Multi-IP-Video-Streamer is a Python-based desktop application that allows users to capture live video from a webcam and audio from a microphone, encode the stream using FFmpeg, and send it to one or multiple target IP addresses over TCP or UDP protocols. The app features a user-friendly GUI built with Tkinter, making it easy to configure streaming settings like IP addresses, ports, protocols, and codecs (H.264 or H.265).
